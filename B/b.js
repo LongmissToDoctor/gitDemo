@@ -5,3 +5,7 @@ function func2() {
 function func3() {
   console.log('func3');
 }
+
+function func4() {
+  console.log('func4');
+}
