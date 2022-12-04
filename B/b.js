@@ -9,3 +9,7 @@ function func3() {
 function func4() {
   console.log('func4');
 }
+
+function func5() {
+  console.log('func5');
+}
